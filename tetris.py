@@ -2,6 +2,9 @@ import pygame
 from tilemaps import *
 from definations import *
 
+for i in range(100):
+    print(Tetrimino())
+
 win = pygame.display.set_mode((1280, 720))
 running = True
 clock = pygame.time.Clock()
