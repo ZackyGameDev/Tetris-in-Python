@@ -1,5 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# Ignore these
 test.py
+.editorconfig
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
